@@ -61,10 +61,20 @@ These steps ensured clean, interpretable inputs for downstream modeling.
 ## 🤖 Machine Learning Models
 The following supervised classification models were implemented and evaluated:
 
+### 🔹 Decision Tree – ROC Curve
+<p align="center">
+  <img src="images/decision tree.png" width="600">
+</p>
+
 ### 🌳 Decision Tree Classifier
 - Provided a transparent baseline model
 - Enabled straightforward interpretation of decision rules
 - Evaluated using training and testing accuracy
+
+### 🔹 Random Forest – ROC Curve
+<p align="center">
+  <img src="images/randon forest.png" width="600">
+</p>
 
 ### 🌲 Random Forest Classifier
 - Improved predictive performance through ensemble learning
